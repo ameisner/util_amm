@@ -1,2 +1,4 @@
 ### any autosaves
 pro/*~
+python/*~
+python/*.pyc
