@@ -6,7 +6,7 @@
 ;   generate a sample of coordinates uniformly distributed on sphere
 ;
 ; CALLING SEQUENCE:
-;   coords = random_lonlat(nsam, lrange=, brange=)
+;   coords = random_lonlat(nsam, lrange=, brange=, seed=, double=, deg=)
 ;
 ; INPUTS:
 ;   nsam - number of random locations
